@@ -85,11 +85,11 @@ I ran the script in PyCharm (figure 1-4) and then opened the command prompt on m
 
 I then used the python.exe command with the file path to run my script, Assigment07_Error_Handling.py. The script ran as expected (figure 1-5)
 
-![Figure 1-4](/docs/Figure%201-4.png "Figure 1-4") 
+![Figure 1-4](Figure%201-4.png "Figure 1-4") 
 
 *Figure 1-4: Screenshot showing commands to locate the proper folder and run Assigment07_Error_Handling.py in PyCharm*
 
-![Figure 1-5](/docs/Figure%201-5.png "Figure 1-5") 
+![Figure 1-5](Figure%201-5.png "Figure 1-5") 
 
 
 *Figure 1-5: Screenshot showing commands to locate the proper folder and run Assigment07_Error_Handling.py in windows command prompt*
@@ -172,15 +172,15 @@ I did run into an issue where after running the Processor.read_data_from_file() 
 I ran the script in PyCharm (figure 2-4) and then opened the command prompt on my windows computer and copied the file path. 
 I then used the python.exe command with the file path to run my script, Assigment07_Pickling.py. The script ran as expected (figure 2-5).
 
-![Figure 2-4](/docs/Figure%202-4.png "Figure 2-4") 
+![Figure 2-4](Figure%202-4.png "Figure 2-4") 
 
 *Figure 2-4: Screenshot showing commands to locate the proper folder and run Assigment07_Pickling.py in PyCharm*
 
-![Figure 2-5](/docs/Figure%202-5.png "Figure 2-5") 
+![Figure 2-5](Figure%202-5.png "Figure 2-5") 
 
 *Figure 2-5: Screenshot showing commands to locate the proper folder and run Assigment07_Pickling.py in windows command prompt*
 
-![Figure 2-6](/docs/Figure%202-6.png "Figure 2-6") 
+![Figure 2-6](Figure%202-6.png "Figure 2-6") 
 
 *Figure 2-6: Screenshot of ToDoFile.dat directory location and contents*
 
