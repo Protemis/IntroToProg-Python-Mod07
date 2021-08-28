@@ -1,5 +1,8 @@
 # Assignment 07
 
+**Dev:** *EWaktola*<br>
+**Date:** *8.28.2021*
+
 ## Introduction
 
 In this assignment, I will demonstrate two concepts of python: Structured Exception Handling and Pickling. The script builds upon my previous knowledge with using structured exception handling and pickling.
